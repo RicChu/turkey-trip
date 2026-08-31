@@ -557,6 +557,7 @@ var P={
   grand:'38.6394198,34.8294131',
   goreme:'38.6390591,34.8455787',
   seten:'38.6412661,34.8257096',      /* Seten Restaurant Cappadocia — 11/02 午餐 */
+  topdeck:'38.6417558,34.8276558',    /* Topdeck Cave Restaurant — 11/02 晚餐 */
   kaymakli:'38.4599265,34.7524882',
   pigeon:'38.6320754,34.8152333',
   pasabag:'38.6770053,34.8549063',
@@ -686,7 +687,7 @@ var DATA=[
 {
   day:4, date:'11/02', week:'一', theme:'gold',
   title:'🎈 格雷梅 Göreme｜奇岩與熱氣球交織的夢幻大地',
-  status:'✅ 已定版', statusCls:'none',
+  status:'✅ 已定版', statusCls:'fixed',
   fatigue:4, fatigueText:'今天飛 高 · 沒飛 中',
   img:'cappadocia-balloons.jpg', cap:'格雷梅 · 日出熱氣球',
   lead:'獨特的火山岩地貌、洞穴城市與滿天熱氣球，打造出世界上難以複製的奇幻景色。',
@@ -728,10 +729,19 @@ var DATA=[
          ]},
        map:pin(P.seten)},
       {time:'15:30<br>–15:35', act:'→ 回飯店', tags:['car:🚘 5 分'], map:drv(P.seten,P.grand)},
-      {time:'16:00<br>–17:40', act:'駱駝騎乘之旅', hi:true, tags:['含飯店接送','lock:永遠 11/02 16:00'],
+      {time:'16:00<br>–17:40', act:'駱駝騎乘之旅', hi:true, tags:['含飯店接送'],
      sight:{zh:'駱駝騎乘 · 日落場', en:'Cappadocia Camel Ride', img:'camel-ride.jpg', d:'GetYourGuide t486222，含飯店接送。16:00 接、騎乘約 16:20－17:20，路線含 Red + Rose Valley（<strong>不含 Ortahisar</strong>）。11/02 日落 17:41，整段都在黃金時段裡。⚠️ <strong>16:15 還沒接到就用票券上的 WhatsApp 聯絡</strong>，最晚 16:40 開始仍在光線內。'},
     },
-      {time:'18:00<br>以後', act:'自由時間', note:'未特別安排，附近酒吧很多，若還有體力可以去街上走走'},
+      {time:'19:00<br>–20:45', act:'Topdeck Cave 晚餐', hi:true, tags:['car:🚶 步行 4 分','eat:晚餐','lock:⚠️ 須訂位'], map:wlk(P.grand,P.topdeck),
+       eatery:{name:'Topdeck Cave Restaurant', en:'Hafız Abdullah Efendi Sk. No 15, Göreme', price:'約 ₺600–1,400 / 人', hours:'每日 17:00–23:30', img:'topdeck-cave.jpg', pos:'50% 85%',
+         d:'開在老闆 Mustafa 一家人的自宅一樓，那個洞穴空間原本是馬廄；菜由他自己做、自己端上桌。菜單每天換，大致是 12 道冷前菜、5 道熱前菜、當日例湯與 5～6 道主餐，有素食。⚠️ <strong>店裡只有 12 個位子</strong>，沒訂位常被回絕。',
+         dishes:[
+           ['🥇','綜合 Meze 拼盤 <b>Mixed Meze</b>','第一必點，一次吃到多種土耳其冷前菜，通常附麵包'],
+           ['🥈','羊膝 <b>Lamb Shank</b>','主餐第一名，慢燉到骨肉分離'],
+           ['🥉','羊肉串 / 羊肉料理','兩人都吃羊就再加一份；不想重複改點牛肉'],
+           ['４','每日自製甜點','現場問當天供應什麼，南瓜甜點或米布丁類都可以試']
+         ]}},
+      {time:'20:45<br>以後', act:'走回飯店、早睡', note:'走路 4 分鐘，天黑後不用開車。⚠️ 不管今天有沒有飛，都要當作明天 04:00 可能要起床來睡。', map:wlk(P.topdeck,P.grand)},
     ]}
   ],
   stay:{name:'Grand Elite Cave Suites', note:'Booking.com，入住 14:00／退房 11:00'}
@@ -1089,12 +1099,18 @@ function spotsHtml(list, opt){
   }
   return h+'<div class="spot-panel" hidden></div></div>';
 }
-/* r.eatery：{name, en, price, hours, img, d} */
+/* r.eatery：{name, en, price, hours, img, ratio, pos, d, dishes} */
 function eateryHtml(e){
   if(!e) return '';
   var h='<div class="eatery">';
-  if(e.img) h+='<img class="eatery-fig" loading="lazy" decoding="async" src="'+IMG+e.img
+  if(e.img){
+    var st='';
+    if(e.ratio) st+='aspect-ratio:'+e.ratio+';';
+    if(e.pos)   st+='object-position:'+e.pos+';';
+    h+='<img class="eatery-fig" loading="lazy" decoding="async" src="'+IMG+e.img
+    +(st?'" style="'+st:'')
     +'" alt="'+escAttr(e.name)+'" onerror="this.style.display=\'none\'">';
+  }
   h+='<div class="eatery-body"><div class="eatery-name">'+e.name
     +(e.en?'<span class="eatery-en">'+e.en+'</span>':'')+'</div>';
   if(e.price||e.hours){

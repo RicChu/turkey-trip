@@ -50,3 +50,4 @@ CC BY-SA 要求標示作者與授權：頁面 footer 的〈每日照片〉那行
 | `seten-terrace.jpg` | 11/02 Seten Restaurant 餐廳卡片 | 使用者於 2026-08-22 提供 |
 | `balloon-ride.jpg` | 11/02 熱氣球說明卡 | 使用者於 2026-08-22 提供（取代原本 Wolfgang Moroder 的 CC BY-SA 3.0 照片） |
 | `camel-ride.jpg` | 11/02 駱駝騎乘說明卡 | 使用者於 2026-08-22 提供（取代原本 Tevfik Teker 的 CC BY 3.0 照片） |
+| `topdeck-cave.jpg` | 11/02 Topdeck Cave Restaurant 餐廳卡片 | 使用者於 2026-08-31 提供 |

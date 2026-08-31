@@ -59,29 +59,33 @@
 
 ### 11/02（一）Grand Elite → 熱氣球 → 露天博物館 → 駱駝
 
-> 下午**兩段自駕**各 10 分；**沒飛的那個上午再多三段**（Paşabağ / Zelve，共 35 分）。行李全天在房間內。
->
-> 全天自駕：**Plan A 20 分／Plan B、C、D 55 分**。
+> 全天五段自駕，共約 **55 分**，四個 Plan 完全相同（10:10 之後不再分飛不飛）。行李全天在房間內。晚餐 Topdeck Cave 走路 4 分鐘，**天黑後不用開車**。
 
-**上午 — 只有 Plan B / C / D 走（沒飛）**
+**10:10 之後 — 四個 Plan 完全相同**
 
 | # | 段落（點到點） | 車程 | 判斷重點 |
 |---|------|------|----------|
-| A1 | [**Grand Elite → Paşabağ 蘑菇谷**](https://www.google.com/maps/dir/?api=1&origin=38.6394198,34.8294131&destination=38.6770053,34.8549063&travelmode=driving) | **15 分**（實測 9.8 分 / 6.9 km） | 09:30 出發、09:45 到，逛到 10:45。最經典的多頭精靈煙囪，平地好走 |
-| A2 | [**Paşabağ → Zelve 露天博物館**](https://www.google.com/maps/dir/?api=1&origin=38.6770053,34.8549063&destination=38.6657426,34.8652932&travelmode=driving) | **5 分**（實測 3.9 分 / **1.8 km**） | 10:45 出發、10:50 到，逛到 11:50。廢棄洞穴村，人比 Göreme 露天博物館少很多。✅ **官方是同一個景點「ZELVE-PAŞABAĞLAR」，票在 Paşabağ 買一次就通用**（€12），**每天開、08:00 開門** |
-| A3 | [**Zelve → Grand Elite**](https://www.google.com/maps/dir/?api=1&origin=38.6657426,34.8652932&destination=38.6394198,34.8294131&travelmode=driving) | **15 分**（實測 9.9 分 / 8.3 km） | 11:50 出發、12:05 到，車停飯店走去吃午餐 |
-| — | Plan A 這三段不走 | — | 09:00～12:00 是**補眠，不可挪用** |
+| A1 | [**Grand Elite → Paşabağ 蘑菇谷**](https://www.google.com/maps/dir/?api=1&origin=38.6394198,34.8294131&destination=38.6770053,34.8549063&travelmode=driving) | **15 分**（實測 9.8 分 / 6.9 km） | 10:10 出發、10:25 到，逛到 11:15。最經典的多頭精靈煙囪，平地好走 |
+| A2 | [**Paşabağ → Zelve 露天博物館**](https://www.google.com/maps/dir/?api=1&origin=38.6770053,34.8549063&destination=38.6657426,34.8652932&travelmode=driving) | **5 分**（實測 3.9 分 / **1.8 km**） | 11:15 出發、11:20 到，逛到 12:10。廢棄洞穴村，人比 Göreme 露天博物館少很多。✅ **官方是同一個景點「ZELVE-PAŞABAĞLAR」，票在 Paşabağ 買一次就通用**（€12），**每天開、08:00 開門** |
+| A3 | [**Zelve → Göreme Open Air Museum**](https://www.google.com/maps/dir/?api=1&origin=38.6657426,34.8652932&destination=38.6390591,34.8455787&travelmode=driving) | **20 分** | 12:10 出發、12:30 進館，逛到 14:00 |
+| A4 | [**Göreme Open Air Museum → Seten Restaurant**](https://www.google.com/maps/dir/?api=1&origin=38.6390591,34.8455787&destination=38.6412661,34.8257096&travelmode=driving) | **10 分** | 14:00 出發、14:10 到，午餐吃到 15:30 |
+| A5 | [**Seten Restaurant → Grand Elite**](https://www.google.com/maps/dir/?api=1&origin=38.6412661,34.8257096&destination=38.6394198,34.8294131&travelmode=driving) | **5 分** | 15:30 出發、15:35 到，車停飯店等 16:00 駱駝接送 |
 | A2′ | **備援（幾乎不會用到）**：[Zelve → Devrent 想像谷](https://www.google.com/maps/dir/?api=1&origin=38.6657426,34.8652932&destination=38.6750753,34.8843370&travelmode=driving) | **6 分**（實測 5.8 分 / 4.4 km） | ✅ **Zelve 開放時間已官方查證（每天開、08:00 開門），原本的「怕沒開」風險已解除**，這條保留純粹當保險：真的遇到臨時封閉就往東開去 Devrent，逛 45 分，再走 [Devrent → Grand Elite](https://www.google.com/maps/dir/?api=1&origin=38.6750753,34.8843370&destination=38.6394198,34.8294131&travelmode=driving)（**20 分**，實測 14.7 分 / 12 km），一樣 12:05 前回鎮上。**先寫好就不算現場決策** |
 | — | Zelve 正常開的話**不加** Devrent | — | 行程夠滿了，加了會變成「要不要再跑一個」的現場決策 |
 
-**下午 — 四個 Plan 完全相同**
+**接送段（不自駕）**
 
 | # | 段落（點到點） | 車程 | 判斷重點 |
 |---|------|------|----------|
-| — | 熱氣球（接送，不自駕）：[Cappadocia Discovery Balloons](https://www.google.com/maps/search/?api=1&query=Cappadocia%20Discovery%20Balloons) | — | 已訂 11/02 06:00，Grand Elite 接送。**Plan A** 04:00 起床、08:30 回飯店、09:00～12:00 補眠；**Plan B / C / D** 這格空著，改走上面的 A1～A3 |
-| 1 | [**Grand Elite → Göreme Open Air Museum**](https://www.google.com/maps/dir/?api=1&origin=38.6394198,34.8294131&destination=38.6390591,34.8455787&travelmode=driving) | **10 分**（實測 7 分 / 1.8 km） | 13:20 出發、13:30 進館、15:20 出。**排下午是因為旅行團集中在上午**，越晚人越少。✅ 官方（muze.gov.tr `GRM01`）：**每天開、08:00 開門**，13:30 進場離關門很遠，**已不需要行前確認** |
-| 2 | [**Göreme Open Air Museum → Grand Elite**](https://www.google.com/maps/dir/?api=1&origin=38.6390591,34.8455787&destination=38.6394198,34.8294131&travelmode=driving) | **10 分** | 15:20 出發、15:30 到，車停飯店，15:30～16:00 休息換保暖外套 |
+| — | 熱氣球（接送，不自駕）：[Cappadocia Discovery Balloons](https://www.google.com/maps/search/?api=1&query=Cappadocia%20Discovery%20Balloons) | — | 已訂 11/02 06:00，Grand Elite 接送。飛了 = 04:30～08:30；沒飛 = 這格空著，睡飽後 09:30 早餐。兩條線都在 **10:10 出發**走 A1～A5 |
 | — | 駱駝（接送，不自駕，GetYourGuide `t486222`）：[Cappadocia Camel Ride](https://www.google.com/maps/search/?api=1&query=Cappadocia%20Camel%20Ride) | — | **16:00 接送、騎乘約 16:20～17:20**，到 Grand Elite 接。**11/02 日落 17:41**，整段騎乘都在黃金時段。含 Red / Rose（不含 Ortahisar），**自駕全程跳過**這幾點 |
+
+**晚餐（步行，不自駕）**
+
+| # | 段落（點到點） | 時間 | 判斷重點 |
+|---|------|------|----------|
+| W1 | [**Grand Elite → Topdeck Cave Restaurant**](https://www.google.com/maps/dir/?api=1&origin=38.6394198,34.8294131&destination=38.6417558,34.8276558&travelmode=walking) | **步行 4 分**（約 0.3 km） | 19:00 訂位。⚠️ 只有 12 個位子，一定要事先訂 |
+| W2 | [**Topdeck Cave → Grand Elite**](https://www.google.com/maps/dir/?api=1&origin=38.6417558,34.8276558&destination=38.6394198,34.8294131&travelmode=walking) | **步行 4 分** | 20:45 走回，天黑後不用開車，兩人都能喝酒 |
 
 ### 11/03（二）Grand Elite → Kaymaklı → 鴿子谷 → Uçhisar → 拿行李 → Gamirasu
 
